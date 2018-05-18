@@ -1,5 +1,25 @@
 /* google.css */
 
-p {
-  color:red
+#topnavbar {
+  font-family: arial,sans-serif;
+  font-size: 13px;
+  color: #000;
+  opacity: 0.75;
+}
+
+#searchform {
+  padding-top: 109px;
+  margin-left: 792px;
+  width: 50%;
+
+}
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+
+li {
+  display: inline;
 }
